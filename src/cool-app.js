@@ -8,6 +8,7 @@ template.innerHTML = `<div>
                         <input type="button" value="To Allsprak" id="allsprak">
                         <input type="button" value="Reverse" id="reverse">
                         <input type="button" value="Hej" id="hej">
+                        <input type="button" value="Hejdå!" id="hejdå">
                       </div>`
 
 class CoolApp extends HTMLElement {
